@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\PetitJeuDeRole\PetitJeuDeRole\bin\Debug\netcoreapp3.1\PetitJeuDeRole.exe
+C:\Users\Admin\source\repos\PetitJeuDeRole\PetitJeuDeRole\bin\Debug\netcoreapp3.1\PetitJeuDeRole.deps.json
+C:\Users\Admin\source\repos\PetitJeuDeRole\PetitJeuDeRole\bin\Debug\netcoreapp3.1\PetitJeuDeRole.runtimeconfig.json
+C:\Users\Admin\source\repos\PetitJeuDeRole\PetitJeuDeRole\bin\Debug\netcoreapp3.1\PetitJeuDeRole.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\PetitJeuDeRole\PetitJeuDeRole\bin\Debug\netcoreapp3.1\PetitJeuDeRole.dll
+C:\Users\Admin\source\repos\PetitJeuDeRole\PetitJeuDeRole\bin\Debug\netcoreapp3.1\PetitJeuDeRole.pdb
+C:\Users\Admin\source\repos\PetitJeuDeRole\PetitJeuDeRole\obj\Debug\netcoreapp3.1\PetitJeuDeRole.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\PetitJeuDeRole\PetitJeuDeRole\obj\Debug\netcoreapp3.1\PetitJeuDeRole.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PetitJeuDeRole\PetitJeuDeRole\obj\Debug\netcoreapp3.1\PetitJeuDeRole.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PetitJeuDeRole\PetitJeuDeRole\obj\Debug\netcoreapp3.1\PetitJeuDeRole.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PetitJeuDeRole\PetitJeuDeRole\obj\Debug\netcoreapp3.1\PetitJeuDeRole.dll
+C:\Users\Admin\source\repos\PetitJeuDeRole\PetitJeuDeRole\obj\Debug\netcoreapp3.1\PetitJeuDeRole.pdb
+C:\Users\Admin\source\repos\PetitJeuDeRole\PetitJeuDeRole\obj\Debug\netcoreapp3.1\PetitJeuDeRole.genruntimeconfig.cache
